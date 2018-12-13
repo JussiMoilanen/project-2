@@ -1,0 +1,8 @@
+ls 
+ls -l
+cd ..
+cd 1
+cat aaafile
+
+
+
